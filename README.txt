@@ -44,11 +44,11 @@ The user can manage the detected videos and publish them to TikTok through the s
 
 The application is designed to use only the information and permissions necessary to provide its functionality.
 
-For more information, please read our [Privacy Policy](Privacy-Policy.md).
+For more information, please read our [Privacy Policy](privacy.html).
 
 ## Terms of Service
 
-Please read our [Terms of Service](Terms-of-Service.md).
+Please read our [Terms of Service](terms.html).
 
 ## Important
 
