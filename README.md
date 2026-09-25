@@ -39,19 +39,3 @@ When a new video is detected, it can be added to the application's publishing wo
 ### 4. Publish Videos
 
 The user can manage the detected videos and publish them to TikTok through the supported TikTok API integration.
-
-## Privacy
-
-The application is designed to use only the information and permissions necessary to provide its functionality.
-
-For more information, please read our [Privacy Policy](privacy.html).
-
-## Terms of Service
-
-Please read our [Terms of Service](terms.html).
-
-## Important
-
-This application is an independent third-party desktop application and is not affiliated with or endorsed by TikTok.
-
-TikTok is a trademark of TikTok Pte. Ltd. and its affiliated entities.
